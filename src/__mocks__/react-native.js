@@ -3,7 +3,7 @@
  * 
  * This class stubs out the React-Native classes with React classes
  */
-'use string';
+'use strict';
 /**
  * ## Imports
  * 
@@ -37,6 +37,7 @@ ReactNative.View = View;
 ReactNative.ScrollView = View;
 ReactNative.Text = View;
 ReactNative.TouchableOpacity = View;
+ReactNative.TouchableHighlight = View;
 ReactNative.TouchableWithoutFeedback = View;
 ReactNative.ToolbarAndroid = View;
 ReactNative.Image = View;
